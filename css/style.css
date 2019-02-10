@@ -1,0 +1,44 @@
+body{
+	background-color: #22B573
+}
+.logo{
+	width: 400px;
+	height: 300px;
+	float: right;
+
+}
+.p1{
+	font-size: 40px;
+	color: #fff
+
+}
+.sec{
+	margin-top:100px;
+	margin-left: 500px;
+}
+
+.box{
+	background-color: #FCEE21;
+	padding: 20px 20px 40px 40px;
+	margin-left: 20px;
+}
+.inline-b{
+	display: inline-block;
+	float: right;
+	margin-top: 40px;
+
+}
+.box-child img {
+	height:  135px;
+}
+.box-child p {
+	width: 300px;
+}
+.float{
+	float: left;
+	
+}
+.p2{
+	color: #006837;
+	
+}
